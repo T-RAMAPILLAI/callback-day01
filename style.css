@@ -1,0 +1,6 @@
+body{
+    display:flex;
+    justify-content: center;
+    margin-top: 20%;
+    background: linear-gradient(90deg,orange,white,green);
+}
